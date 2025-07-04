@@ -1,9 +1,13 @@
 # 👋 Olá, eu sou o Wenderson Wanzeller!
 
 Engenheiro Informático, Mestre em Engenharia Informática, jornalista e atuário registado em Portugal e no Brasil.
+
 Com mais de 20 anos de experiência, atuo na criação e implementação de soluções práticas em tecnologia, cibersegurança, marketing e comunicação digital.
+
 Sou fundador da Wanzeller, empresa especializada em desenvolvimento de software personalizado, segurança digital, estratégias de marketing orientadas por dados e comunicação eficaz, sempre com foco em performance e resultados mensuráveis.
+
 Paralelamente, mantenho minha atuação como analista de crédito, e nesse contexto desenvolvi a NicePayer, plataforma especializada em gestão estratégica da inadimplência, scoring inteligente e automação de decisões baseadas em dados.
+
 No âmbito acadêmico, sou docente no ensino superior em Portugal, na área de Engenharia Informática e Multimédia, lecionando e orientando projetos com aplicação prática no mercado.
 Também atuei como jornalista, comentador econômico e apresentador de televisão, fortalecendo minha capacidade de comunicação e posicionamento estratégico.
 
