@@ -3,7 +3,7 @@
 Sou desenvolvedor de software com experiência em soluções tecnológicas que abrangem desde aplicações web à medida, integrações com APIs, até projetos complexos utilizando tecnologias como Django, Docker e WordPress. Além de desenvolver soluções para empresas, sou também professor de Programação no Instituto Politécnico de Viana do Castelo (IPVC), onde ensino o desenvolvimento de software em diversas linguagens.
 
 ## 🚀 Um pouco mais sobre mim:
-- 🌐 Atualmente trabalho na [Personaltech | By Wanzeller](https://wanzeller.com), onde sou gerente e lidero projetos de software à medida para empresas de vários setores.
+- 🌐 Atualmente trabalho na [FullTasks | By Wanzeller](https://wanzeller.com), onde sou gerente e lidero projetos de software à medida para empresas de vários setores.
 - 🎓 Mestre em Engenharia Informática, especializado em Economia e Tecnologia.
 - 🎙 Já fui comentarista econômico na Canção Nova e sou apaixonado por analisar e comentar sobre o mercado financeiro.
 - 💻 Trabalho com tecnologias como Python/Django, Docker, Kubernetes e tenho experiência em design de sistemas escaláveis e segurança de aplicações.
